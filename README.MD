@@ -1,4 +1,4 @@
-An exampe of using Electron to capture a web page to a PDF document.
+An example of using Electron to capture a web page to a PDF document.
 
 ## To setup
 
